@@ -4,4 +4,4 @@ I have developed an innovative path-finding algorithm. This algorithm operates w
 
 Furthermore, the algorithm offers the unique capability for users to manually input any blockages or obstacles within the grid. These blockages represent real-world impediments, such as walls or barriers, and challenge the algorithm to find a path that circumvents these obstacles.
 
-Once the parameters are set, the algorithm processes the data to calculate the shortest and most efficient path from the start to the end point, considering all the blockages inputted. 
+Once the parameters are set, spacebar starts the algorithm where it processes the data to calculate the shortest and most efficient path from the start to the end point, considering all the blockages inputted. 
